@@ -1,6 +1,6 @@
 # Data Science Project - Machine Learning
 
-This repository contains machine learning projects that I developed as part of my university course **[Course Name]**. The goal of this course was to explore various machine learning algorithms and techniques using popular frameworks such as **Scikit-Learn**, **Keras**, and **TensorFlow**.
+This repository contains machine learning projects that I developed as part of my university course **Data Science Applied to Electrical Energy Systems** at **Universitat Politecnica de Catalunya**. The goal of this course was to explore various machine learning algorithms and techniques using popular frameworks such as **Scikit-Learn**, **Keras**, and **TensorFlow**.
 
 ## Projects Overview
 
